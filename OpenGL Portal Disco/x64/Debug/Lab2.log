@@ -1,0 +1,19 @@
+﻿  main.cpp
+X:\faculta\year 3\PG\Lab2\Lab2\Lab2\main.cpp(372,40): warning C4305: '+=': truncation from 'double' to 'float'
+X:\faculta\year 3\PG\Lab2\Lab2\Lab2\main.cpp(373,43): warning C4305: '+=': truncation from 'double' to 'float'
+X:\faculta\year 3\PG\Lab2\Lab2\Lab2\main.cpp(381,24): warning C4305: '-=': truncation from 'double' to 'float'
+X:\faculta\year 3\PG\Lab2\Lab2\Lab2\main.cpp(388,26): warning C4305: '-=': truncation from 'double' to 'float'
+X:\faculta\year 3\PG\Lab2\Lab2\Lab2\main.cpp(392,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+X:\faculta\year 3\PG\Lab2\Lab2\Lab2\main.cpp(402,26): warning C4305: '+=': truncation from 'double' to 'float'
+X:\faculta\year 3\PG\Lab2\Lab2\Lab2\main.cpp(410,29): warning C4305: '-=': truncation from 'double' to 'float'
+X:\faculta\year 3\PG\Lab2\Lab2\Lab2\main.cpp(466,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+X:\faculta\year 3\PG\Lab2\Lab2\Lab2\main.cpp(467,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+X:\faculta\year 3\PG\Lab2\Lab2\Lab2\main.cpp(471,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+X:\faculta\year 3\PG\Lab2\Lab2\Lab2\main.cpp(472,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+X:\faculta\year 3\PG\Lab2\Lab2\Lab2\main.cpp(473,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+X:\faculta\year 3\PG\Lab2\Lab2\Lab2\main.cpp(474,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+X:\faculta\year 3\PG\Lab2\Lab2\Lab2\main.cpp(800,85): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+X:\faculta\year 3\PG\Lab2\Lab2\Lab2\main.cpp(815,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+X:\faculta\year 3\PG\Lab2\Lab2\Lab2\main.cpp(924,108): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+X:\faculta\year 3\PG\Lab2\Lab2\Lab2\main.cpp(924,63): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+  Lab2.vcxproj -> X:\faculta\year 3\PG\Lab2\Lab2\x64\Debug\Lab2.exe
