@@ -1,4 +1,4 @@
 # OpenGL-Portal-Disco
-College 3rd year OpenGL project, comprising of both passive and interactive animations, lighting and shadow mapping algorithms.
+University 3rd year OpenGL project, comprising of both passive and interactive animations, lighting and shadow mapping algorithms.
 
 ![alt text](https://github.com/irinapetrea/OpenGL-Portal-Disco/blob/master/PortalDisco_ss.PNG)
